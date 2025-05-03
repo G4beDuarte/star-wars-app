@@ -28,6 +28,7 @@ Para rodar este projeto localmente, siga as etapas abaixo:
 - **Expo CLI**: Se não tiver o Expo CLI instalado, instale-o globalmente com o seguinte comando:
 
 **Desenvolvedores**
+
 Gabriel Duarte - RA: 1134890 - 1134890@atitus.edu.br
 
 Vinicius Casturino - RA: 1135161 - 1135161@atitus.edu.br
